@@ -1,0 +1,80 @@
+TF-IDF
+K: 2, Silhouette Score: 0.0023, Inertia: 29231.8459, DBI: 14.2469
+K: 3, Silhouette Score: 0.0026, Inertia: 29112.8348, DBI: 12.8792
+K: 4, Silhouette Score: 0.0050, Inertia: 28984.6376, DBI: 7.4454
+K: 5, Silhouette Score: 0.0050, Inertia: 28887.3017, DBI: 9.8417
+K: 6, Silhouette Score: 0.0066, Inertia: 28819.2763, DBI: 8.7089
+K: 7, Silhouette Score: 0.0073, Inertia: 28753.8397, DBI: 8.8814
+K: 8, Silhouette Score: 0.0070, Inertia: 28651.4842, DBI: 9.2899
+K: 9, Silhouette Score: 0.0076, Inertia: 28598.6252, DBI: 8.8501
+K: 10, Silhouette Score: 0.0081, Inertia: 28550.1835, DBI: 9.2851
+K: 11, Silhouette Score: 0.0087, Inertia: 28487.4742, DBI: 9.0898
+K: 12, Silhouette Score: 0.0092, Inertia: 28439.3844, DBI: 9.0248
+K: 13, Silhouette Score: 0.0099, Inertia: 28387.7595, DBI: 8.6726
+K: 14, Silhouette Score: 0.0098, Inertia: 28370.5235, DBI: 8.7927
+K: 15, Silhouette Score: 0.0099, Inertia: 28338.7306, DBI: 8.9149
+
+Doc2vec
+K: 2, Silhouette Score: 0.0176, Inertia: 5253520.2618, DBI: 9.3582
+K: 3, Silhouette Score: 0.0347, Inertia: 5215163.6658, DBI: 8.7797
+K: 4, Silhouette Score: 0.0227, Inertia: 5184918.5888, DBI: 8.1249
+K: 5, Silhouette Score: 0.0196, Inertia: 5184701.0976, DBI: 6.6960
+K: 6, Silhouette Score: 0.0198, Inertia: 5184332.7043, DBI: 5.7020
+K: 7, Silhouette Score: 0.0199, Inertia: 5183973.8911, DBI: 4.9962
+K: 8, Silhouette Score: -0.0336, Inertia: 5145708.1664, DBI: 6.2228
+K: 9, Silhouette Score: -0.0384, Inertia: 5128825.3600, DBI: 6.1820
+K: 10, Silhouette Score: -0.0455, Inertia: 5112185.3632, DBI: 6.1870
+K: 11, Silhouette Score: -0.0501, Inertia: 5101294.5231, DBI: 6.1878
+K: 12, Silhouette Score: -0.0501, Inertia: 5100971.0290, DBI: 5.7380
+K: 13, Silhouette Score: -0.0556, Inertia: 5088680.9501, DBI: 5.7110
+K: 14, Silhouette Score: -0.0469, Inertia: 5087203.6524, DBI: 5.2377
+K: 15, Silhouette Score: -0.0472, Inertia: 5086906.2180, DBI: 4.9380
+
+Glove
+K: 2, Silhouette Score: 0.1188, Inertia: 96329.2997, DBI: 2.5578
+K: 3, Silhouette Score: 0.0592, Inertia: 92879.2415, DBI: 3.3831
+K: 4, Silhouette Score: 0.0518, Inertia: 90802.3650, DBI: 3.5928
+K: 5, Silhouette Score: 0.0469, Inertia: 89049.8040, DBI: 3.5395
+K: 6, Silhouette Score: 0.0369, Inertia: 87924.2733, DBI: 3.5957
+K: 7, Silhouette Score: 0.0112, Inertia: 86974.8531, DBI: 3.6962
+K: 8, Silhouette Score: 0.0281, Inertia: 86170.7934, DBI: 3.8265
+K: 9, Silhouette Score: 0.0106, Inertia: 85343.5805, DBI: 3.6194
+K: 10, Silhouette Score: 0.0099, Inertia: 84756.1200, DBI: 3.7021
+K: 11, Silhouette Score: 0.0096, Inertia: 84313.5467, DBI: 3.6255
+K: 12, Silhouette Score: 0.0050, Inertia: 83730.5027, DBI: 3.7508
+K: 13, Silhouette Score: 0.0089, Inertia: 83254.8357, DBI: 3.5470
+K: 14, Silhouette Score: 0.0061, Inertia: 82802.6008, DBI: 3.5816
+K: 15, Silhouette Score: 0.0093, Inertia: 82363.2668, DBI: 3.5232
+
+Bert fine-tuned
+K: 2, Silhouette Score: 0.6961, Inertia: 7648.8467, DBI: 0.5391
+K: 3, Silhouette Score: 0.7558, Inertia: 2936.6357, DBI: 0.4087
+K: 4, Silhouette Score: 0.6474, Inertia: 2258.6868, DBI: 0.6445
+K: 5, Silhouette Score: 0.5955, Inertia: 2112.2129, DBI: 0.6388
+K: 6, Silhouette Score: 0.6086, Inertia: 1722.6525, DBI: 0.5720
+K: 7, Silhouette Score: 0.6274, Inertia: 968.0396, DBI: 0.5299
+K: 8, Silhouette Score: 0.5900, Inertia: 796.6058, DBI: 0.6015
+K: 9, Silhouette Score: 0.6116, Inertia: 673.5673, DBI: 0.6136
+K: 10, Silhouette Score: 0.5995, Inertia: 600.8486, DBI: 0.6498
+K: 11, Silhouette Score: 0.5995, Inertia: 547.1536, DBI: 0.6706
+K: 12, Silhouette Score: 0.5837, Inertia: 517.4818, DBI: 0.7059
+K: 13, Silhouette Score: 0.5341, Inertia: 487.7617, DBI: 0.7203
+K: 14, Silhouette Score: 0.5341, Inertia: 456.4715, DBI: 0.7613
+K: 15, Silhouette Score: 0.5353, Inertia: 436.5837, DBI: 0.8071
+
+Bert fine-tuned v2
+Risultati del metodo del gomito personalizzato per BERT fine tuned:
+K: 2, Silhouette: 0.8505, Inertia: 3942.0911, DBI: 0.2501
+K: 3, Silhouette: 0.9066, Inertia: 1123.9208, DBI: 0.3478
+K: 4, Silhouette: 0.9351, Inertia: 399.8870, DBI: 0.1229
+K: 5, Silhouette: 0.9372, Inertia: 250.9741, DBI: 0.3873
+K: 6, Silhouette: 0.9147, Inertia: 185.9223, DBI: 0.4195
+K: 7, Silhouette: 0.9101, Inertia: 146.4225, DBI: 0.4568
+K: 8, Silhouette: 0.8869, Inertia: 119.9704, DBI: 0.5022
+K: 9, Silhouette: 0.8763, Inertia: 106.0229, DBI: 0.5375
+K: 10, Silhouette: 0.8628, Inertia: 100.7258, DBI: 0.5922
+K: 11, Silhouette: 0.8371, Inertia: 84.7241, DBI: 0.6139
+K: 12, Silhouette: 0.8208, Inertia: 75.6537, DBI: 0.6480
+K: 13, Silhouette: 0.8006, Inertia: 69.7675, DBI: 0.6761
+K: 14, Silhouette: 0.7814, Inertia: 65.4390, DBI: 0.7091
+K: 15, Silhouette: 0.7816, Inertia: 61.4731, DBI: 0.7123
